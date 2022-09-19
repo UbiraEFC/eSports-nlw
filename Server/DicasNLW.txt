@@ -1,0 +1,3 @@
+--> Usar "import" no JS 
+	No package.json adicionar o atributo "type" : "module"
+	E o tipo do arquivo para .mjs

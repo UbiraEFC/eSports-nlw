@@ -1,0 +1,2 @@
+** Usamos o vite React para usarmos o React no projeto
+	"npm i create vite@latest" inicia o projeto
